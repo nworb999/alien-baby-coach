@@ -1,0 +1,15 @@
+# Local credentials
+.env
+
+# All local memory, imported sources, transcripts, and indexes
+.alien-baby/
+data/
+memory/
+sources/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
